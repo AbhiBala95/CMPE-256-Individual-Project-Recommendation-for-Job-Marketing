@@ -1,0 +1,166 @@
+user_id,job_id,name
+1,1,Computer Software Developer (Predictive Modeling)
+1,2,Python Developer
+1,3,Python Developer
+1,4,BMI Consultant
+1,5,Software Engineer - entry level
+1,6,Sr. ETL/Informatica Developer
+1,7,"Analyst, Application Developer"
+1,8,Angular Developer
+1,9,Services Information Developer Specialist--Python & Tableau
+1,10,Software Engineer
+1,11,Services Information Developer Specialist--Python
+1,12,Ansible Developer (BH6) (TF3)
+1,13,Investment Analyst
+1,14,Dev Ops Engineer II
+2,1,Computer Software Developer (Predictive Modeling)
+2,2,Python Developer
+2,3,Python Developer
+2,4,BMI Consultant
+2,5,Software Engineer - entry level
+2,6,Sr. ETL/Informatica Developer
+2,7,"Analyst, Application Developer"
+2,8,Angular Developer
+2,9,Services Information Developer Specialist--Python & Tableau
+2,10,Software Engineer
+2,11,Services Information Developer Specialist--Python
+2,12,Ansible Developer (BH6) (TF3)
+2,13,Investment Analyst
+2,14,Dev Ops Engineer II
+2,15,Software Developer
+3,1,Computer Software Developer (Predictive Modeling)
+3,2,Python Developer
+3,3,Python Developer
+3,4,BMI Consultant
+3,5,Software Engineer - entry level
+3,6,Sr. ETL/Informatica Developer
+3,7,"Analyst, Application Developer"
+3,8,Angular Developer
+3,9,Services Information Developer Specialist--Python & Tableau
+3,10,Software Engineer
+3,11,Services Information Developer Specialist--Python
+3,12,Ansible Developer (BH6) (TF3)
+3,13,Investment Analyst
+4,1,Computer Software Developer (Predictive Modeling)
+4,2,Python Developer
+4,3,Python Developer
+4,4,BMI Consultant
+4,5,Software Engineer - entry level
+4,6,Sr. ETL/Informatica Developer
+4,7,"Analyst, Application Developer"
+4,8,Angular Developer
+4,9,Services Information Developer Specialist--Python & Tableau
+4,10,Software Engineer
+4,11,Services Information Developer Specialist--Python
+4,12,Ansible Developer (BH6) (TF3)
+4,13,Investment Analyst
+4,14,Dev Ops Engineer II
+4,15,Software Developer
+4,16,Backend Python/Django Developer
+4,17,Cloud Engineer
+4,18,Software Developer
+4,19,Full Stack Developer
+4,20,Full Stack Java Engineer
+4,21,Machine Learning Engineer
+4,22,Front-end Developer - Javascript - Chicago
+4,23,Angular Developer
+4,24,"Developer, IT Applications (ETL, Informatica)"
+4,25,Sr. ETL/Informatica Developer
+4,26,Ansible Developer (BH6) (TF3)
+5,1,Computer Software Developer (Predictive Modeling)
+5,2,Python Developer
+5,3,Python Developer
+5,4,BMI Consultant
+5,5,Software Engineer - entry level
+5,6,Sr. ETL/Informatica Developer
+5,7,"Analyst, Application Developer"
+5,8,Angular Developer
+6,1,Computer Software Developer (Predictive Modeling)
+6,2,Python Developer
+6,3,Python Developer
+6,4,BMI Consultant
+6,5,Software Engineer - entry level
+6,6,Sr. ETL/Informatica Developer
+6,7,"Analyst, Application Developer"
+6,8,Angular Developer
+6,9,Services Information Developer Specialist--Python & Tableau
+6,10,Software Engineer
+6,11,Services Information Developer Specialist--Python
+6,12,Ansible Developer (BH6) (TF3)
+6,13,Investment Analyst
+6,14,Dev Ops Engineer II
+6,15,Software Developer
+7,1,Computer Software Developer (Predictive Modeling)
+7,2,Python Developer
+7,3,Python Developer
+7,4,BMI Consultant
+7,5,Software Engineer - entry level
+7,6,Sr. ETL/Informatica Developer
+7,7,"Analyst, Application Developer"
+7,8,Angular Developer
+7,9,Services Information Developer Specialist--Python & Tableau
+7,10,Software Engineer
+7,11,Services Information Developer Specialist--Python
+8,1,Computer Software Developer (Predictive Modeling)
+8,2,Python Developer
+8,3,Python Developer
+8,4,BMI Consultant
+8,5,Software Engineer - entry level
+8,6,Sr. ETL/Informatica Developer
+8,7,"Analyst, Application Developer"
+8,8,Angular Developer
+9,1,Computer Software Developer (Predictive Modeling)
+9,2,Python Developer
+9,3,Python Developer
+9,4,BMI Consultant
+9,5,Software Engineer - entry level
+10,1,Computer Software Developer (Predictive Modeling)
+10,2,Python Developer
+10,3,Python Developer
+10,4,BMI Consultant
+10,5,Software Engineer - entry level
+10,6,Sr. ETL/Informatica Developer
+10,7,"Analyst, Application Developer"
+10,8,Angular Developer
+11,1,Computer Software Developer (Predictive Modeling)
+11,2,Python Developer
+11,3,Python Developer
+11,4,BMI Consultant
+11,5,Software Engineer - entry level
+11,6,Sr. ETL/Informatica Developer
+11,7,"Analyst, Application Developer"
+11,8,Angular Developer
+11,9,Services Information Developer Specialist--Python & Tableau
+11,10,Software Engineer
+11,11,Services Information Developer Specialist--Python
+11,12,Ansible Developer (BH6) (TF3)
+12,1,Computer Software Developer (Predictive Modeling)
+12,2,Python Developer
+12,3,Python Developer
+13,1,Computer Software Developer (Predictive Modeling)
+13,2,Python Developer
+13,3,Python Developer
+13,4,BMI Consultant
+13,5,Software Engineer - entry level
+13,6,Sr. ETL/Informatica Developer
+13,7,"Analyst, Application Developer"
+13,8,Angular Developer
+13,9,Services Information Developer Specialist--Python & Tableau
+13,10,Software Engineer
+14,1,Computer Software Developer (Predictive Modeling)
+14,2,Python Developer
+14,3,Python Developer
+14,4,BMI Consultant
+14,5,Software Engineer - entry level
+14,6,Sr. ETL/Informatica Developer
+14,7,"Analyst, Application Developer"
+14,8,Angular Developer
+14,9,Services Information Developer Specialist--Python & Tableau
+15,1,Computer Software Developer (Predictive Modeling)
+15,2,Python Developer
+15,3,Python Developer
+15,4,BMI Consultant
+15,5,Software Engineer - entry level
+15,6,Sr. ETL/Informatica Developer
+15,7,"Analyst, Application Developer"
+15,8,Angular Developer
